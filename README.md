@@ -1,6 +1,6 @@
 # EVENT
 
-A new Flutter project.
+A simple way to manage your events.
 
 ## Getting Started
 
